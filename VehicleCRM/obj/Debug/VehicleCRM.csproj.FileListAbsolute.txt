@@ -1,0 +1,7 @@
+C:\Users\lbk95\source\repos\VehicleCRM\VehicleCRM\bin\Debug\VehicleCRM.exe.config
+C:\Users\lbk95\source\repos\VehicleCRM\VehicleCRM\bin\Debug\VehicleCRM.exe
+C:\Users\lbk95\source\repos\VehicleCRM\VehicleCRM\bin\Debug\VehicleCRM.pdb
+C:\Users\lbk95\source\repos\VehicleCRM\VehicleCRM\obj\Debug\VehicleCRM.csprojAssemblyReference.cache
+C:\Users\lbk95\source\repos\VehicleCRM\VehicleCRM\obj\Debug\VehicleCRM.csproj.CoreCompileInputs.cache
+C:\Users\lbk95\source\repos\VehicleCRM\VehicleCRM\obj\Debug\VehicleCRM.exe
+C:\Users\lbk95\source\repos\VehicleCRM\VehicleCRM\obj\Debug\VehicleCRM.pdb

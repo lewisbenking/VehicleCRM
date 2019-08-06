@@ -1,0 +1,10 @@
+CustomerId,Forename,Surname,DateOfBirth,VehicleId,RegistrationNumber,Manufacturer,Model,EngineSize,RegistationDate,InteriorColour,HasHelmetStorage,VehicleType
+1,Joe,Bloggs,08/04/1983,1,REG1,Renault,Clio,1290,28/02/2007,Cream,,Car
+1,Joe,Bloggs,08/04/1983,7,REG2,Renault,Twingo,1190,12/03/2012,Grey,,Car
+2,Jane,Doe,04/09/1979,2,REG3,Ford,Fiesta,1187,03/10/2008,Black,,Car
+3,Bob,Smith,27/10/1992,3,REG4,Peugeot,108,987,03/07/2003,Grey,,Car
+4,Em,Jones,09/12/1990,4,REG5,Renault,Clio,1190,03/05/2012,Grey,,Car
+5,Jane,King,10/03/1987,5,REG6,Citroen,C3,1298,20/02/2016,Black,,Car
+6,Lewis,King,19/01/1963,6,REG7,Renault,Megane,1380,04/04/2015,Cream,,Car
+6,Lewis,King,19/01/1963,7,REG8,Harley-Davidson,Street 750,750,10/10/2015,,No,Motorcycle
+7,Stephen,King,07/06/1980,,,,,,,,,

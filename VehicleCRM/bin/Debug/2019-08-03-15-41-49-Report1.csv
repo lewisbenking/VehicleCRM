@@ -1,0 +1,10 @@
+CustomerId,Forename,Surname,DateOfBirth,VehicleId,RegistrationNumber,Manufacturer,Model,EngineSize,RegistationDate,InteriorColour,HasHelmetStorage,VehicleType
+1,Joe,Bloggs,08/04/1983 00:00:00,1,BJ07 YUK,Renault,Clio,1290,28/02/2007 00:00:00,Cream,,Car
+1,Joe,Bloggs,08/04/1983 00:00:00,7,BJ12 UUY,Renault,Twingo,1190,12/03/2012 00:00:00,Grey,,Car
+2,Jane,Doe,04/09/1979 00:00:00,2,BT58 OKJ,Ford,Fiesta,1187,03/10/2008 00:00:00,Black,,Car
+3,Bob,Smith,27/10/1992 00:00:00,3,BJ53 WYR,Peugeot,108,987,03/07/2003 00:00:00,Grey,,Car
+4,Kate,Jones,09/12/1990 00:00:00,4,BT12 UJJ,Renault,Clio,1190,03/05/2012 00:00:00,Grey,,Car
+5,Ann,Banks,10/03/1987 00:00:00,5,BJ16 OIU,Citroen,C3,1298,20/02/2016 00:00:00,Black,,Car
+6,Jeff,Hope,19/01/1963 00:00:00,6,BT15 PLM,Renault,Megane,1380,04/04/2015 00:00:00,Cream,,Car
+6,Jeff,Hope,19/01/1963 00:00:00,7,BJ55 PPP,Harley-Davidson,Street 750,750,10/10/2015 00:00:00,,No,Motorcycle
+7,Steven,Beck,07/06/1980 00:00:00,,,,,,,,,

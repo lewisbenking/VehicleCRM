@@ -1,0 +1,4 @@
+VehicleId,RegistrationNumber,Manufacturer,Model,EngineSize,RegistationDate,InteriorColour,HasHelmetStorage,VehicleType
+1,BJ07 YUK,Renault,Clio,1290,28/02/2007 00:00:00,Cream,,Car
+2,BT58 OKJ,Ford,Fiesta,1187,03/10/2008 00:00:00,Black,,Car
+3,BJ53 WYR,Peugeot,108,987,03/07/2003 00:00:00,Grey,,Car

@@ -1,0 +1,7 @@
+C:\Users\lbk95\source\repos\Pinewood\Pinewood\bin\Debug\Pinewood.exe.config
+C:\Users\lbk95\source\repos\Pinewood\Pinewood\bin\Debug\Pinewood.exe
+C:\Users\lbk95\source\repos\Pinewood\Pinewood\bin\Debug\Pinewood.pdb
+C:\Users\lbk95\source\repos\Pinewood\Pinewood\obj\Debug\Pinewood.csproj.CoreCompileInputs.cache
+C:\Users\lbk95\source\repos\Pinewood\Pinewood\obj\Debug\Pinewood.exe
+C:\Users\lbk95\source\repos\Pinewood\Pinewood\obj\Debug\Pinewood.pdb
+C:\Users\lbk95\source\repos\Pinewood\Pinewood\obj\Debug\Pinewood.csprojAssemblyReference.cache
